@@ -1,3 +1,4 @@
+<img width="1919" height="1128" alt="Screenshot 2025-12-29 234354" src="https://github.com/user-attachments/assets/1981031e-e892-4ab2-9b50-db89068618b4" />
 # Healthcare-Data-Analysis-Project-SQL
 
 **1. Project Overview**
