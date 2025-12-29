@@ -1,4 +1,3 @@
-<img width="1919" height="1128" alt="Screenshot 2025-12-29 234354" src="https://github.com/user-attachments/assets/1981031e-e892-4ab2-9b50-db89068618b4" />
 # Healthcare-Data-Analysis-Project-SQL
 
 **1. Project Overview**
@@ -93,3 +92,5 @@ Key Attributes:
 5 - Highlighted top 20% hospitals generating ~60% of total revenue
 
 6 - Flagged ~20% high-risk patients (abnormal tests + above-average billing) for focused care and cost control
+
+<img width="1919" height="1128" alt="Screenshot 2025-12-29 234354" src="https://github.com/user-attachments/assets/1981031e-e892-4ab2-9b50-db89068618b4" />
