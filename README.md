@@ -7,9 +7,11 @@ Using SQL (basic to intermediate), the project demonstrates how real-world healt
 
 The analysis emphasizes data quality improvement, cost optimization, operational efficiency, and risk identification, simulating challenges faced by hospitals and insurance providers.
 
+
 **2. Objective**
 
 Leverage SQL to clean the data and answer business-critical questions that support better decision-making in healthcare operations and cost management.
+
 
 **3. Dataset Description**
 
@@ -29,6 +31,7 @@ Key Attributes:
 
 - Operational data: Hospital, Doctor
 
+
 **4. Tools & Skills**
 
 1 - SQL (MySQL)
@@ -42,6 +45,7 @@ Key Attributes:
 5 - Data Analysis & Business Insight Generation
 
 6 - Problem Solving & Logical Thinking
+
 
 **5. SQL Problem–Solution Mapping**
 
@@ -63,6 +67,7 @@ Key Attributes:
 | 14 | Duplicate record detection    | `GROUP BY`, `HAVING`    |
 | 15 | Deduplication                 | `ROW_NUMBER()`          |
 
+
 **6. Key Insights**
 
 1 - Emergency admissions consistently show higher average billing than elective cases
@@ -74,6 +79,7 @@ Key Attributes:
 4 - Noticeable billing variation across insurance providers for similar treatments
 
 5 - Patients with abnormal test results represent a significant share of high-cost cases
+
 
 **7. What we achieved**
 
