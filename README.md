@@ -20,9 +20,13 @@ Source: (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 Key Attributes:
 
 - Patient details: Name, Age, Gender, Blood Type
+
 - Medical data: Medical Condition, Test Results, Medication
+
 - Admission details: Admission Type, Admission Date, Discharge Date, Room Number
+
 - Financial data: Billing Amount, Insurance Provider
+
 - Operational data: Hospital, Doctor
 
 **4. Tools & Skills**
@@ -62,15 +66,23 @@ Key Attributes:
 **6. Key Insights**
 
 1 - Emergency admissions consistently show higher average billing than elective cases
+
 2 - A small subset of medical conditions contributes to a disproportionate share of total costs
+
 3 - Hospital revenue is highly concentrated, with a few hospitals driving most billing
+
 4 - Noticeable billing variation across insurance providers for similar treatments
+
 5 - Patients with abnormal test results represent a significant share of high-cost cases
 
 **7. What we achieved**
 
 1 - Improved data accuracy by ~3% by removing 300+ duplicate records from 10,000+ rows
+
 2 - Identified ~50% of total billing driven by the top 3 medical conditions
+
 3 - Revealed 30–40% higher costs for emergency admissions compared to elective cases
+
 5 - Highlighted top 20% hospitals generating ~60% of total revenue
+
 6 - Flagged ~20% high-risk patients (abnormal tests + above-average billing) for focused care and cost control
